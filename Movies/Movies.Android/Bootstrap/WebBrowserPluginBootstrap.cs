@@ -1,9 +1,9 @@
-using Cirrious.CrossCore.Plugins;
+using MvvmCross.Platform.Plugins;
 
 namespace CoolBeans.Droid.Bootstrap
 {
     public class WebBrowserPluginBootstrap
-        : MvxPluginBootstrapAction<Cirrious.MvvmCross.Plugins.WebBrowser.PluginLoader>
+        : MvxPluginBootstrapAction<MvvmCross.Plugins.WebBrowser.PluginLoader>
     {
     }
 }

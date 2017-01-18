@@ -1,8 +1,8 @@
 using Android.Content;
-using Cirrious.MvvmCross.Binding.BindingContext;
-using Cirrious.MvvmCross.Binding.Droid.BindingContext;
-using Cirrious.MvvmCross.Droid.Views;
-using Cirrious.MvvmCross.ViewModels;
+using MvvmCross.Binding.BindingContext;
+using MvvmCross.Binding.Droid.BindingContext;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Droid.Views;
 
 namespace CoolBeans.Droid.MvxDroidAdaptation
 {

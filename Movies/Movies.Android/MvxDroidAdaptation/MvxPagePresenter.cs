@@ -1,6 +1,6 @@
-using Cirrious.CrossCore;
-using Cirrious.MvvmCross.Droid.Views;
-using Cirrious.MvvmCross.ViewModels;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Droid.Views;
+using MvvmCross.Platform;
 
 namespace CoolBeans.Droid.MvxDroidAdaptation
 {

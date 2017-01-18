@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Windows.Input;
-using Cirrious.MvvmCross.ViewModels;
 using CoolBeans.Models;
 using CoolBeans.Services;
+using MvvmCross.Core.ViewModels;
 
 namespace CoolBeans.ViewModels
 {

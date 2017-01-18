@@ -1,7 +1,7 @@
 using Android.App;
 using Android.OS;
-using Cirrious.CrossCore;
-using Cirrious.MvvmCross.ViewModels;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 

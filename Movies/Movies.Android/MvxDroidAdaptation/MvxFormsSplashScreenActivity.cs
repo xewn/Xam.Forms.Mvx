@@ -1,4 +1,4 @@
-using Cirrious.MvvmCross.Droid.Views;
+using MvvmCross.Droid.Views;
 
 namespace CoolBeans.Droid.MvxDroidAdaptation
 {

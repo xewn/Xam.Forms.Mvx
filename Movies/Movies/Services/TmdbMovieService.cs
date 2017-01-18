@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Cirrious.CrossCore;
 using CoolBeans.Models;
 using ModernHttpClient;
+using MvvmCross.Platform;
 using Newtonsoft.Json;
 
 namespace CoolBeans.Services

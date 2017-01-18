@@ -2,8 +2,8 @@ using System;
 using Android.App;
 using Android.Content;
 using Android.OS;
-using Cirrious.CrossCore.Core;
-using Cirrious.CrossCore.Droid.Views;
+using MvvmCross.Platform.Core;
+using MvvmCross.Platform.Droid.Views;
 using Xamarin.Forms.Platform.Android;
 
 namespace CoolBeans.Droid.MvxDroidAdaptation

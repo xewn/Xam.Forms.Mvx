@@ -1,9 +1,10 @@
-using Cirrious.CrossCore.IoC;
 using CoolBeans.ViewModels;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform.IoC;
 
 namespace CoolBeans
 {
-    public class App : Cirrious.MvvmCross.ViewModels.MvxApplication
+    public class App : MvxApplication
     {
         public override void Initialize()
         {

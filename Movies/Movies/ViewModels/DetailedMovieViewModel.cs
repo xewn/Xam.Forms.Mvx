@@ -1,9 +1,9 @@
 ﻿using System.Windows.Input;
-using Cirrious.CrossCore;
-using Cirrious.MvvmCross.Plugins.WebBrowser;
-using Cirrious.MvvmCross.ViewModels;
 using CoolBeans.Models;
 using CoolBeans.Services;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform;
+using MvvmCross.Plugins.WebBrowser;
 
 namespace CoolBeans.ViewModels
 {
